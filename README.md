@@ -4,7 +4,7 @@ This is a [Dashing](http://shopify.github.io/dashing/) widget to display train s
 
 Make sure you add the <tt>ns-api</tt> gem to your Gemfile:
 
-  gem 'ns-api', git: 'git://github.com/marceldegraaf/ns.git', require: 'ns'
+    gem 'ns-api', git: 'git://github.com/marceldegraaf/ns.git', require: 'ns'
 
 Follow [the instructions](https://github.com/marceldegraaf/ns#request-an-api-username-and-password-from-ns) to
 request your NS API credentials and set these in the <tt>Train</tt> class - or use the <tt>ENV</tt> vars that
