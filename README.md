@@ -1,5 +1,7 @@
 This is a [Dashing](http://shopify.github.io/dashing/) widget to display train service times and disruptions on a Dashing dashboard.
 
+![dashing-ns](http://f.cl.ly/items/0b2n2X1L07351r2c3y1d/Screen%20Shot%202013-04-18%20at%2012.13.05.png)
+
 ## Installation
 
 Make sure you add the <tt>ns-api</tt> gem to your Gemfile:
