@@ -1,5 +1,9 @@
 class Train
 
+  # This is an example class that interacts with the NS API.
+  # In this case we've set the DEPART_FROM constant to "asd",
+  # which is Amsterdam Central station.
+
   DEPART_FROM = 'asd'
 
   def initialize
