@@ -1,5 +1,3 @@
-# dashing-ns
-
 This is a [Dashing](http://shopify.github.io/dashing/) widget to display train service times and disruptions on a Dashing dashboard.
 
 ## Installation
